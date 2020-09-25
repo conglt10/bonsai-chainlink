@@ -1,0 +1,32 @@
+.pick-erc {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.icon-size {
+  height: 20px;
+  width: 20px;
+}
+
+.text-width {
+  width: 40px;
+}
+
+.transfer-border {
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #000000;
+  margin: 10px 15px;
+}
+
+.btn-apr {
+  width: 40%;
+  height: 50px !important;
+}

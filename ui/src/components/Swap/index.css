@@ -1,0 +1,11 @@
+.step_w {
+  margin: auto;
+  width: 60%;
+}
+
+.pick-erc-btn {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0px;
+}
